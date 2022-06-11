@@ -1,6 +1,17 @@
 # Start Here Guide
 
-##Start Here: Stories
+## Overview
+- [Stories](#stories)
+- [Voting](#voting)
+- [Illustrations](#illustrations)
+- [Hidden Stories & Bounty Writing](#hidden-stories--bounty-writing)
+- [Warp & Weft](#warp--weft)
+- [Spindle ASA & $YARN Token](#spindle-asa--yarn-token)
+- [Social Clubs](#social-clubs)
+- [Spindle Links](#spindle-links)
+- [Guide Links](#guide-links)
+
+## Stories
 
 Every work of fiction on the Spindle Website was uploaded with permissions by the author/illustrator and the author/illustrator may remove their work at any time.
 
@@ -44,7 +55,7 @@ Hidden Stories are collaborations with other projects and individuals in which b
 Server: [https://discord.gg/D8P9esv6Vn](https://discord.gg/D8P9esv6Vn)
 Email: [contact@spindle-asa.com](mailto:contact@spindle-asa.com)
 
-## Start Here: Warp & Weft
+## Warp & Weft
 
 Warp & Weft is a monthly ASA zine featuring Algorand community news, ASA/NFT updates, and project interviews, as well as creative content and fiction from the Spindle community. Each month’s issue is unlocked using the cover NFT, which makes that issue readable in PDF format.
 
@@ -56,7 +67,7 @@ Email: [contact@spindle-asa.com](mailto:contact@spindle-asa.com)
 
 ![start-here-c-ww](/images/start-here-c-ww.png)
 
-## Start Here: Spindle ASA & $YARN Token
+## Spindle ASA & $YARN Token
 
 You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please contact us or check out our Crypto Beginners Guide [here](crypto-guide/crypto-guide.md).
 
@@ -84,24 +95,28 @@ Spindle is looking to simultaneously expand the content we currently offer (fict
 Server: [https://discord.gg/D8P9esv6Vn](https://discord.gg/D8P9esv6Vn)
 Email: [contact@spindle-asa.com](mailto:contact@spindle-asa.com)
 
-
-
 ## Spindle Links
 
-Server: [https://discord.gg/D8P9esv6Vn](https://discord.gg/D8P9esv6Vn)
-Email: [contact@spindle-asa.com](mailto:contact@spindle-asa.com)
-[Reddit](https://www.reddit.com/r/spindleASA)
-[Twitter](https://twitter.com/AsaSpindle)
-[Tinyman Swap](https://app.tinyman.org/#/swap?asset_in=0&asset_out=544217506)
-[Liquidity Pool](https://app.tinyman.org/#/pool/HN3SAOCBR36XYO2E3N2FFUHWJ3YQDHWMBKK5IHWPE2VZVGDXKKYAAJRLVY)
+### Contact 
+[contact@spindle-asa.com](mailto:contact@spindle-asa.com)
 
-## Spindle Guide Links
+### Social Media
+| Discord | Reddit | Twitter |
+|---|---|---|
+| [Spindle](https://discord.gg/D8P9esv6Vn) | [r/spindleASA](https://www.reddit.com/r/spindleASA) | [@AsaSpindle](https://twitter.com/AsaSpindle) |
 
-[Start Here](/start-here.md)
-[Beginner’s Guide to Crypto](/crypto-guide/crypto-guide.md)
-[Expanded Guide: Fiction](/fiction-guide/fiction-guide.md)
-[Expanded Guide: Voting](/voting-guide/voting-guide.md)
-[Expanded Guide: Illustration](/illustrations-guide/illustrations-guide.md)
-[Expanded Guide: Hidden Stories](/hidden-stories-guide/hidden-stories-guide.md)
-[Expanded Guide: Warp & Weft](/warp-and-weft-guide/warp-and-weft-guide.md)
-[Expanded Guide: Spindle ASA](/spindle-guide/spindle-guide.md)
+### $Yarn
+- [AlgoExplorer](https://algoexplorer.io/asset/544217506)
+- [Tinyman Swap](https://app.tinyman.org/#/swap?asset_in=0&asset_out=544217506)
+- [Liquidity Pool](https://app.tinyman.org/#/pool/HN3SAOCBR36XYO2E3N2FFUHWJ3YQDHWMBKK5IHWPE2VZVGDXKKYAAJRLVY)
+
+## Guide Links
+
+- [Start Here](/start-here.md)
+- [Beginner’s Guide to Crypto](/crypto-guide/crypto-guide.md)
+- [Expanded Guide: Fiction](/fiction-guide/fiction-guide.md)
+- [Expanded Guide: Voting](/voting-guide/voting-guide.md)
+- [Expanded Guide: Illustration](/illustrations-guide/illustrations-guide.md)
+- [Expanded Guide: Hidden Stories](/hidden-stories-guide/hidden-stories-guide.md)
+- [Expanded Guide: Warp & Weft](/warp-and-weft-guide/warp-and-weft-guide.md)
+- [Expanded Guide: Spindle ASA](/spindle-guide/spindle-guide.md)
