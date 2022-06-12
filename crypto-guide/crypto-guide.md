@@ -1,13 +1,13 @@
-Welcome to the Spindle Ecosystem!
+# Beginner’s Guide to Crypto
 
 This guide covers how to:
 
-[Set up a Pera Wallet](#set-up-a-pera-wallet)
-[Opt into Yarn](#opt-into-yarn)
-[Swap Algo for Yarn on Tinyman](#swap-algo-for-yarn-on-tinyman)
-[Tip Creators or Buy Spindle Voting Cards](#tip-creators-or-buy-spindle-voting-cards)
+- [Set up a Pera Wallet](#set-up-a-pera-wallet)
+- [Opt into Yarn](#opt-into-yarn)
+- [Swap Algo for Yarn on Tinyman](#swap-algo-for-yarn-on-tinyman)
+- [Tip Creators or Buy Spindle Voting Cards](#tip-creators-or-buy-spindle-voting-cards)
 
-# Set up a Pera Wallet
+## Set up a Pera Wallet
 
 Pera Wallet is the official Algorand wallet. You can visit their website to learn more or to download.
 
@@ -29,7 +29,7 @@ The account must be activated by receiving at least 0.1 Algo. Each asset and app
 
 Your account is now ready to receive and send Algo!
 
-# Opt into Yarn
+## Opt into Yarn
 
 In order to receive and send Ya, and search for YARN.  you will need to opt into it as an Algorand Standard Asset, or ASA.
 
@@ -41,7 +41,7 @@ Click on “Add New Asset” next to the plus sign in the “Assets” tab of yo
 (Optional) If you would like to use Voting Cards, opt into those as well by going to the NFTs tab and using the same steps. You will have to opt into Spindle Voting Card A, B, C and D separately (ASA IDs 612495327, 612537774, 612546420, 612569810).
 ```
 
-# Swap Algo for Yarn on Tinyman
+## Swap Algo for Yarn on Tinyman
 
 Go to https://app.tinyman.org/ and connect your Pera Wallet. In the upper right corner of the Pera Wallet app, there are the corners of a square with a horizontal line in the middle. Click this to scan the QR code that will appear on the screen when you click the “Connect Wallet” button on the website. (If you are using MyAlgo wallet, you will be prompted to enter your password instead of using Wallet Connect). Before using Tinyman for the first time, you will need to opt in to the Tinyman application. Sign the transaction from your wallet (Note: this involves a 0.001 ALGO transaction fee).
 
@@ -65,7 +65,7 @@ If the transaction was successful, you will get a confirmation screen with the t
 
 ![swap](crypto-guide-d-swap.png)
 
-# Tip Creators or Buy Spindle Voting Cards
+## Tip Creators or Buy Spindle Voting Cards
 
 Now your Yarn is ready to be used on the Spindle website!
 
