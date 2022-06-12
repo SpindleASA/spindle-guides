@@ -26,7 +26,7 @@ Spindle has a community Discord for brainstorming, proof-reading, and editing co
 
 If you want to contribute fiction but don’t want to join the server, email us for more information: [contact@spindle-asa.com](mailto:contact@spindle-asa.com).
 
-You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, check out our [Crypto Beginners Guide](/crypto-guide/crypto-guide.md) or [contact us](mailto:contact@spindle-asa.com) for help.
+You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, check out our [Beginner’s Guide to Crypto](/crypto-guide/crypto-guide.md) or [contact us](mailto:contact@spindle-asa.com) for help.
 
 For more detailed information on Spindle Fiction, check out our [Expanded Guide: Fiction](/fiction-guide/fiction-guide.md).
 
@@ -62,7 +62,7 @@ Warp & Weft is not actively looking for article writers, but if you have somethi
 
 ## Spindle ASA & $YARN Token
 
-You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please contact us or check out our [Beginner’s Guide to Crypto](/crypto-guide/crypto-guide.md).
+You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, check out our [Beginner’s Guide to Crypto](/crypto-guide/crypto-guide.md) or [contact us](mailto:contact@spindle-asa.com) for help.
 
 Spindle Yarn (ASA ID# 544217506) is a token created to interact with the Spindle platform and to allow us to experiment with currency swap. Spindle Yarn is not an investment token, is not used for governance, and should not be considered to have value outside of the Spindle platform. Spindle Yarn is used to incentivize participation in the Spindle Discord and the Spindle Platform and primarily exists as a currency to be used on Spindle creative content and services.
 
