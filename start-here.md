@@ -1,6 +1,6 @@
 # Start Here Guide
 
-## Overview
+This guide covers:
 - [Stories](#stories)
 - [Voting](#voting)
 - [Illustrations](#illustrations)
