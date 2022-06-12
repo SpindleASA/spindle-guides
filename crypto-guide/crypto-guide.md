@@ -21,9 +21,7 @@ To do this, you will either import or generate a 25-word seed phrase. Write down
 
 Next, you have the option to name your account (for example, “what happens next?”). The default name is the 58 character Algorand address.
 
-```
-Optional: to ensure you have the seed phrase correct, remove your account and add it back by importing the seed phrase. Click on “...” in the upper right corner, then “Remove Account” in the menu that pops up, then “Remove”. Repeat the steps to add an account by selecting “I already have an account”, clicking “Recover an account”, and entering your seed phrase.
-```
+> **_Optional:_** to ensure you have the seed phrase correct, remove your account and add it back by importing the seed phrase. Click on “...” in the upper right corner, then “Remove Account” in the menu that pops up, then “Remove”. Repeat the steps to add an account by selecting “I already have an account”, clicking “Recover an account”, and entering your seed phrase.
 
 The account must be activated by receiving at least 0.1 Algo. Each asset and application you opt into adds to the required minimum balance, so it is recommended that you fund the account with at least 5 Algo (currently about $3.50) to explore the Algorand ecosystem. Send Algo to the 58 character Algorand address from any wallet you own, including an exchange like Coinbase. Click on “...” in the upper right corner, then “Copy Address” in the menu that pops up. Paste this address as the receiver when you send Algo.
 
