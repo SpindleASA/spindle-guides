@@ -2,12 +2,11 @@
 
 This guide covers:
 
-- [Beginner’s Guide to Crypto](#beginners-guide-to-crypto)
-  - [Set up a Pera Wallet](#set-up-a-pera-wallet)
-  - [Opt into Yarn](#opt-into-yarn)
-  - [Swap Algo for Yarn on Tinyman](#swap-algo-for-yarn-on-tinyman)
-  - [Tip Creators or Buy Spindle Voting Cards](#tip-creators-or-buy-spindle-voting-cards)
-  - [Spindle Guide Links](#spindle-guide-links)
+- [Set up a Pera Wallet](#set-up-a-pera-wallet)
+- [Opt into Yarn](#opt-into-yarn)
+- [Swap Algo for Yarn on Tinyman](#swap-algo-for-yarn-on-tinyman)
+- [Tip Creators or Buy Spindle Voting Cards](#tip-creators-or-buy-spindle-voting-cards)
+- [Spindle Guide Links](#spindle-guide-links)
 
 ## Set up a Pera Wallet
 

@@ -2,22 +2,10 @@
 
 This guide covers:
 
-- [Expanded Guide: Fiction](#expanded-guide-fiction)
-  - [Creator Rights](#creator-rights)
-  - [Monetization](#monetization)
-    - [Tipping](#tipping)
-    - [Story Voting](#story-voting)
-    - [Illustration NFTs](#illustration-nfts)
-    - [Proof-Reading](#proof-reading)
-    - [$YARN Rewards](#yarn-rewards)
-    - [Bounty Writing](#bounty-writing)
-    - [NFT-Locked Content](#nft-locked-content)
-  - [Fiction Rules & Guidelines](#fiction-rules--guidelines)
-    - [Archiving](#archiving)
-    - [Content Restrictions](#content-restrictions)
-    - [Submitting Fiction](#submitting-fiction)
-    - [Incorporating the Algorand Blockchain](#incorporating-the-algorand-blockchain)
-  - [Spindle Guide Links](#spindle-guide-links)
+- [Creator Rights](#creator-rights)
+- [Monetization](#monetization)
+- [Fiction Rules & Guidelines](#fiction-rules--guidelines)
+- [Spindle Guide Links](#spindle-guide-links)
 
 ## Creator Rights
 

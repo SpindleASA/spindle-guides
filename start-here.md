@@ -1,20 +1,16 @@
 # Start Here Guide
 
 This guide covers:
-- [Start Here Guide](#start-here-guide)
-  - [Stories](#stories)
-  - [Voting](#voting)
-  - [Illustrations](#illustrations)
-  - [Hidden Stories & Bounty Writing](#hidden-stories--bounty-writing)
-  - [Warp & Weft](#warp--weft)
-  - [Spindle ASA & $YARN Token](#spindle-asa--yarn-token)
-  - [Social Clubs](#social-clubs)
-  - [Coming Soon!](#coming-soon)
-  - [Spindle Links](#spindle-links)
-    - [Contact](#contact)
-    - [Social Media](#social-media)
-    - [$Yarn](#yarn)
-  - [Guide Links](#guide-links)
+- [Stories](#stories)
+- [Voting](#voting)
+- [Illustrations](#illustrations)
+- [Hidden Stories & Bounty Writing](#hidden-stories--bounty-writing)
+- [Warp & Weft](#warp--weft)
+- [Spindle ASA & $YARN Token](#spindle-asa--yarn-token)
+- [Social Clubs](#social-clubs)
+- [Coming Soon!](#coming-soon)
+- [Spindle Links](#spindle-links)
+- [Guide Links](#guide-links)
 
 ## Stories
 
@@ -70,7 +66,7 @@ You don’t need an Algorand wallet to enjoy our public fiction content, but you
 
 Spindle Yarn (ASA ID# 544217506) is a token created to interact with the Spindle platform and to allow us to experiment with currency swap. Spindle Yarn is not an investment token, is not used for governance, and should not be considered to have value outside of the Spindle platform. Spindle Yarn is used to incentivize participation in the Spindle Discord and the Spindle Platform and primarily exists as a currency to be used on Spindle creative content and services.
 
-There are no staking rewards for Yarn other than for providing liquidity to our Tinyman pool, but you may use Yarn to hire writers and editors to help with your individual projects. For more information, join the [Spindle Discord](https://discord.gg/D8P9esv6Vn) or contact us through [email](mailto:contact@spindle-asa.com). For more information, check out our [Expanded Guide: Spindle ASA](/spidle.md).
+There are no staking rewards for Yarn other than for providing liquidity to our Tinyman pool, but you may use Yarn to hire writers and editors to help with your individual projects. For more information, join the [Spindle Discord](https://discord.gg/D8P9esv6Vn) or contact us through [email](mailto:contact@spindle-asa.com). For more information, check out our [Expanded Guide: Spindle ASA](/spindle.md).
 
 - [AlgoExplorer](https://algoexplorer.io/asset/544217506)
 - [Tinyman Swap](https://app.tinyman.org/#/swap?asset_in=0&asset_out=544217506)
