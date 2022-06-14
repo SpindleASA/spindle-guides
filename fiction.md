@@ -1,9 +1,23 @@
 # Expanded Guide: Fiction
 
 This guide covers:
-- [Creator Rights](#creator-rights)
-- [Monetization](#monetization)
-- [Fiction Rules & Guidelines](#fiction-rules--guidelines)
+
+- [Expanded Guide: Fiction](#expanded-guide-fiction)
+  - [Creator Rights](#creator-rights)
+  - [Monetization](#monetization)
+    - [Tipping](#tipping)
+    - [Story Voting](#story-voting)
+    - [Illustration NFTs](#illustration-nfts)
+    - [Proof-Reading](#proof-reading)
+    - [$YARN Rewards](#yarn-rewards)
+    - [Bounty Writing](#bounty-writing)
+    - [NFT-Locked Content](#nft-locked-content)
+  - [Fiction Rules & Guidelines](#fiction-rules--guidelines)
+    - [Archiving](#archiving)
+    - [Content Restrictions](#content-restrictions)
+    - [Submitting Fiction](#submitting-fiction)
+    - [Incorporating the Algorand Blockchain](#incorporating-the-algorand-blockchain)
+  - [Spindle Guide Links](#spindle-guide-links)
 
 ## Creator Rights
 
@@ -15,11 +29,11 @@ Currently, monetization occurs in these ways:
 
 - [Tipping](#tipping)
 - [Story Voting](#story-voting)
-- [NFT Illustration Sales](#nft-illustration-sales)
+- [Illustration NFTs](#illustration-nfts)
 - [Proof-Reading](#proof-reading)
-- [YARN Rewards](#yarn-rewards)
-- [Bounty Writing (Coming Soon)](#bounty-writing)
-- [NFT Locked Content (Coming Soon)](#nft-locked-content)
+- [$YARN Rewards](#yarn-rewards)
+- [Bounty Writing](#bounty-writing)
+- [NFT-Locked Content](#nft-locked-content)
 
 We plan to expand into other types of content as we grow as a platform.
 
@@ -96,26 +110,18 @@ If you want to contribute fiction but don’t want to join the server, email us 
 
 ### Incorporating the Algorand Blockchain
 
-You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please contact us or check out our Beginner’s Guide to Crypto [here](/crypto-guide/crypto-guide.md)
+You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please contact us or check out our Beginner’s Guide to Crypto [here](/crypto.md)
 
-## Spindle Links
-
-Server: [https://discord.gg/D8P9esv6Vn](https://discord.gg/D8P9esv6Vn)
-Email: [contact@spindle-asa.com](mailto:contact@spindle-asa.com)
-[Reddit](https://www.reddit.com/r/spindleASA)
-[Twitter](https://twitter.com/AsaSpindle)
-[Tinyman Swap](https://app.tinyman.org/#/swap?asset_in=0&asset_out=544217506)
-[Liquidity Pool](https://app.tinyman.org/#/pool/HN3SAOCBR36XYO2E3N2FFUHWJ3YQDHWMBKK5IHWPE2VZVGDXKKYAAJRLVY)
-
+<br>
 <br>
 
 ## Spindle Guide Links
 
 [Start Here](/start-here.md)
-[Beginner’s Guide to Crypto](/crypto-guide/crypto-guide.md)
-[Expanded Guide: Fiction](/fiction-guide/fiction-guide.md)
-[Expanded Guide: Voting Cards](/voting-guide/voting-guide.md)
-[Expanded Guide: Illustration NFTs](/illustrations-guide/illustrations-guide.md)
-[Expanded Guide: Hidden Stories](/hidden-stories-guide/hidden-stories.md)
-[Expanded Guide: Warp & Weft](/warp-and-weft-guide/warp-and-weft-guide.md)
-[Expanded Guide: Spindle ASA](/spindle-guide/spindle-guide.md)
+[Beginner’s Guide to Crypto](/crypto.md)
+[Expanded Guide: Fiction](/fiction.md)
+[Expanded Guide: Voting Cards](/voting.md)
+[Expanded Guide: Illustration NFTs](/illustrations.md)
+[Expanded Guide: Hidden Stories](/hidden-stories.md)
+[Expanded Guide: Warp & Weft](/warp-and-weft.md)
+[Expanded Guide: Spindle ASA](/spindle.md)
