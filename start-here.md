@@ -16,7 +16,7 @@ This guide covers:
 ## Stories
 Every work of fiction on the Spindle website was uploaded with permissions by the author/illustrator and the author/illustrator may remove their work at any time.
 
-Every uploaded chapter/illustration receives a [YARN](#yarn) reward if that chapter passes Spindle quality standards and is greater than 1500 words. Chapters under 1500 may still be uploaded but may not be eligible for a YARN reward.
+Every uploaded chapter/illustration receives a [YARN](#spindle-asa--yarn-token) reward if that chapter passes Spindle quality standards and is greater than 1500 words. Chapters under 1500 may still be uploaded but may not be eligible for a YARN reward.
 
 If a new chapter isn’t uploaded within six months a story may be archived. Archived works will be flagged for the benefit of the reader, but the author may still update them and move them out of the archive.
 
@@ -37,7 +37,7 @@ Authors may or may not include a voting element in their stories, and votes may 
 
 Voting stories may leave their vote open for a minimum of 1 week and a maximum of 4 weeks. All voting is transparent, so an author offering voting is committed to following the outcome of the vote, whatever that may be.
 
-More expensive voting cards may be added in the future for more influential story decisions. For more information, check out our [Expanded Guide: Voting Cards](/voting.md).
+More expensive voting cards may be added in the future for more influential story decisions. For more information, check out our [Expanded Guide: Voting](/voting.md).
 
 ![voting](/images/voting/voting-dark.jpg)
 

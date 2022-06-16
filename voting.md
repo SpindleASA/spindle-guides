@@ -1,4 +1,4 @@
-# Expanded Guide: Voting Cards
+# Expanded Guide: Voting
 
 This guide covers:
 
