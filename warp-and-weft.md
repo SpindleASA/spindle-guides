@@ -22,7 +22,7 @@ The Project Spotlight is the main feature of each zine, chosen by Spindle. A W&W
 May’s Spotlight Article features The AlgoFaucet in a 3-page interview with founder Big Bang Flash.
 
 ### Project Sponsorships
-Project Sponsorships are purchased articles, and will be clearly labeled as paid features. These help fund Warp & Weft journalists and allow us to continue expanding! Each month will only feature one main sponsor, which will receive a 2 page article, an icon on the front cover, a stack of zines to give out to their community, and the option to distribute their token through W&W staking to reach a new audience. Sponsorships are currently 100 ALGO, please contact us if your project is interested in sponsoring an issue!
+Project Sponsorships are purchased articles, and will be clearly labeled as paid features. These help fund Warp & Weft journalists and allow us to continue expanding! Each month will only feature one main sponsor, which will receive a 2 page article, an icon on the front cover, a stack of zines to give out to their community, and the option to distribute their token through W&W staking to reach a new audience. Sponsorships are currently 100 ALGO, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn) if your project is interested in sponsoring an issue!
 
 ### Block Advertisements
 Block Advertisements are smaller, paid ads towards the back of Warp & Weft. Block advertisements may be full page, half page, a third page, or a quarter page, depending on how many advertisements are submitted. They will not be smaller than a quarter page. Block advertisements may be designed by Spindle if a pre-made design isn’t available, and will include clickable links to the project’s Discord server, website, and social media pages. Block advertisements are currently 20 ALGO.
@@ -42,7 +42,7 @@ Rach’s NFT Round-up from April’s issue had a page of new releases and a page
 Dox Talk is a doxxed interview with a project creator, in which the creator shares their real name and a photo of themselves. These creators may or may not already be doxxed, but it helps them notify a larger audience of their doxxed status. The Dox Talk also features some fun factoids about your favorite project creators!
 
 ### Other Contents
-The following clip of the Table of Contents from the April issue shows the variety of articles in each issue of Warp & Weft, from book club reviews to news to fiction! If you’d like to have content featured, please contact us using one of the links at the bottom of the page.
+The following clip of the Table of Contents from the April issue shows the variety of articles in each issue of Warp & Weft, from book club reviews to news to fiction! If you’d like to have content featured, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn).
 
 ![warp-and-weft](/images/warp-and-weft/contents.png)
 

@@ -24,38 +24,36 @@ If a story has voting open, the ballot indicator next to the ‘Read’ navigati
 
 ![ballot](/images/voting/indicator-dark.jpg)
 
-The voting options, current results, and beginning/end dates will be displayed at the bottom of the relevant chapter. You’ll have to connect your wallet via Wallet Connect to cast your ballot.
+The voting options, current results, and beginning/end dates will be displayed at the bottom of the relevant chapter. You’ll have to connect your wallet via Wallet Connect to cast your ballot. 
+Just click ‘Connect Wallet’ to link up to MyAlgo Wallet or Pera Wallet.
 
 ![ballot](/images/voting/connect-dark.jpg)
 
-Just click ‘Connect Wallet’ to link up to MyAlgo Wallet or Pera Wallet.
+If you don’t have a Voting Card NFT in your wallet, the option will be disabled. Click on ‘Swap Cards’ to navigate to the *Fiction > Cards & Voting* page to get the voting card you want to send.
 
 ![ballot](/images/voting/disabled-dark.jpg)
 
-If you don’t have a Voting Card NFT in your wallet, the option will be disabled. Click on ‘Swap Cards’ to navigate to the *Cards & Voting* page to get the voting card you want to send.
 
+Buy the card with the corresponding ballot you’d like to cast.
 
 ![ballot](/images/voting/cards-buy-dark.jpg)
 
-
-Buy the card with the corresponding ballot you’d like to cast. On the Spindle website, cards may be purchased with 500 YARN or a roughly equivalent value in ALGO. 
+On the Spindle website, cards may be purchased with 500 YARN or a roughly equivalent value in ALGO. 
 
 ![ballot](/images/voting/buy-dark.png)
 
 Cards may be swapped back into 500 YARN at any time, but cannot be swapped back into ALGO.
 
-
-
-
-Once you have your card, you can navigate back to the story to cast your ballot!
+Once you have your card, you can navigate back to the story to cast your ballot! This transfers the card directly from your wallet to the author’s wallet.
 
 ![ballot](/images/voting/send-dark.jpg)
 
-This transfers the card directly from your wallet to the author’s wallet.
+The results display reads the information directly from the blockchain, so the new votes are shown right away! 
+
 
 ![ballot](/images/voting/result-dark.jpg)
 
-The results display reads the information directly from the blockchain, so the new votes are shown right away! Authors may transfer or sell cards immediately without affecting the vote tally.
+Authors may transfer or sell cards immediately without affecting the vote tally.
 
 And that’s it! Authors will use the results of the vote to write the next chapter in their interactive saga!
 
@@ -65,11 +63,19 @@ The Voting Card illustrations were chosen to reflect a variety of story genres a
 
 **Vote A Card:** [Continuity Drift](https://www.instagram.com/continuitydrift/)
 
+![Vote A](/images/voting/vote-a.png)
+
 **Vote B Card:** [KC Kahre](https://www.instagram.com/pteratato/)
+
+![Vote B](/images/voting/vote-b.png)
 
 **Vote C Card:** [Grundalug](https://www.instagram.com/grundalug/)
 
+![Vote C](/images/voting/vote-c.png)
+
 **Vote D Card:** [Srifez](https://www.instagram.com/srifez/)
+
+![Vote D](/images/voting/vote-d.png)
 
 <br>
 <br>

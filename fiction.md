@@ -9,11 +9,11 @@ This guide covers:
 
 ## Creator Rights
 
-Every work of fiction on the Spindle Website was uploaded with permissions by the author/illustrator and the author/illustrator may remove their work at any time.
+Every work of fiction on the Spindle website was uploaded with permissions by the author/illustrator and the author/illustrator may remove their work at any time.
 
 ## Monetization
 
-Currently, monetization occurs in these ways:
+Currently, monetization can occur in these ways:
 
 - [Tipping](#tipping)
 - [Story Voting](#story-voting)
@@ -23,7 +23,7 @@ Currently, monetization occurs in these ways:
 - [Bounty Writing (Coming Soon)](#bounty-writing)
 - [NFT-Locked Content (Coming Soon)](#nft-locked-content)
 
-We plan to expand into other types of content as we grow as a platform.
+We plan to expand into other types of content as we grow as a platform. If you would like to have your story content NFT-locked or become a bounty writer, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn).
 
 ### Tipping
 Every chapter will include a ‘Tip YARN’ button for readers to tip their favorite authors and stories. This tip button links to a wallet provided by the author so 100% of the tip goes directly to the author.
@@ -32,7 +32,7 @@ Every chapter will include a ‘Tip YARN’ button for readers to tip their favo
 
 ### Story Voting
 
-Story Voting is an expansion of tipping; authors may choose to offer interactivity to their stories, where readers can ‘tip’ a 500 YARN Voting Card to influence the direction of the story. Authors choose all four options and the amount of time the vote is open (minimum of 1 week and maximum of 4 weeks from the time of upload), and readers can cast their ballot during that time-frame. Voting is at the discretion of the author and is not required. Authors of voting stories are not required to include a vote every chapter.
+Story Voting is an expansion of tipping; authors may choose to offer interactivity to their stories, where readers can ‘tip’ a 500 YARN Voting Card to influence the direction of the story. Authors choose up to four options and the amount of time the vote is open (minimum of 1 week and maximum of 4 weeks from the time of upload), and readers can cast their ballot during that time-frame. Voting is at the discretion of the author and is not required. Authors of voting stories are not required to include a vote every chapter.
 
 ![voting](/images/voting/voting-dark.jpg)
 
@@ -42,7 +42,7 @@ The website program reads the voting information directly from the blockchain an
 
 ![cards](/images/voting/cards-dark.jpg)
 
-Voting cards can be purchased with 500 YARN or 2 ALGO, but can only be converted back into YARN. For more information on the voting cards, check out our Expanded Guide: Voting Cards [insert link].
+Voting cards can be purchased with 500 YARN or a roughly equivalent value in ALGO, but can only be converted back into YARN. For more information on the voting cards, check out our [Expanded Guide: Voting](/voting.md).
 
 Voting Stories have Ballot Indicators next to the ‘Read’ navigation, and if that indicator is green the voting is currently open for that story.
 
@@ -50,13 +50,13 @@ Voting Stories have Ballot Indicators next to the ‘Read’ navigation, and if 
 
 ### Illustration NFTs
 
-Currently Illustration NFTs are only sold by the authors/artists on their respective external storefronts, but Spindle aims to implement an internal storefront for selling Illustration NFTs sometime this summer. This will be an optional service.
+Currently, Illustration NFTs are only sold by the authors/artists on their respective external storefronts, but Spindle aims to implement an internal storefront for selling Illustration NFTs in Q3/Q4 2022. This will be an optional service.
 
 In the meantime, we’ll be creating author/story profile pages for everyone to link to their external shops, social media, personal pages, etc.
 
 ### Proof-Reading
 
-Story proof-reading and editing occurs on the Storyteller’s Guild, a Discord server exclusively for the authors. Proof-reading chapters is often a swap between two authors, but may be compensated with YARN or a Voting Card if a swap isn’t available. For more information, join the Spindle Main server to request access to the Storyteller’s Guild: https://discord.gg/D8P9esv6Vn
+Story proof-reading and editing occurs on channels on our Discord server exclusively for the authors. Proof-reading chapters is often a swap between two authors, but may be compensated with YARN or a Voting Card if a swap isn’t available. For more information, join the [Spindle Discord Server](https://discord.gg/D8P9esv6Vn) to request access to the Storyteller’s channels.
 
 ### $YARN Rewards
 
@@ -64,21 +64,15 @@ Every uploaded chapter/illustration receives a YARN reward if that chapter passe
 
 This reward is just an incentive bonus and should not be considered as a payment for your work.
 
-If your story or chapter is rejected, you’ll be given a reason and suggestions on corrections you could make to your work. Typically it just means more proof-reading is needed. Help from fellow authors can be requested on the Spindle Discord Server: https://discord.gg/D8P9esv6Vn
+If your story or chapter is rejected, you’ll be given a reason and suggestions on corrections you could make to your work. Typically it just means more proof-reading is needed. Help from fellow authors can be requested on the [Spindle Discord Server](https://discord.gg/D8P9esv6Vn).
 
 ### Bounty Writing
 
-As Spindle grows, other projects notice the quality of our work and some may want to hire writers for various tasks, with various levels of compensation. If you’re interested in Bounty Writing, contact us or check out our Expanded Guide: Hidden Stories [Coming soon!].
-
-Discord Server: https://discord.gg/D8P9esv6Vn
-Email: contact@spindle-asa.com
+As Spindle grows, other projects notice the quality of our work and some may want to hire writers for various tasks, with various levels of compensation. The *Expanded Guide: Hidden Stories* will be coming soon. If you’re interested in Bounty Writing, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn).
 
 ### NFT-Locked Content
 
-If you’d like to lock your story content behind NFT purchases, please contact us. This service should be available over the next few months.
-
-Discord Server: https://discord.gg/D8P9esv6Vn
-Email: contact@spindle-asa.com
+If you’d like to lock your story content behind NFT purchases, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn). This service should be available over the next few months.
 
 ## Fiction Rules & Guidelines
 
@@ -92,13 +86,13 @@ Spindle is not accepting fanfiction or graphic NSFW content at this time. We enc
 
 ### Submitting Fiction
 
-Spindle has a private Discord for brainstorming, proof-reading, and editing content. Joining this server is encouraged for anyone wanting to upload fiction to Spindle, but is not mandatory. You can join the main server here to request access to the private server: [https://discord.gg/D8P9esv6Vn](https://discord.gg/D8P9esv6Vn)
+Spindle has locked Discord channels for brainstorming, proof-reading, and editing content. Joining our server is encouraged for anyone wanting to upload fiction to Spindle, but is not mandatory. You can join the [Spindle Discord Server](https://discord.gg/D8P9esv6Vn) to request access to the Storyteller’s channels.
 
-If you want to contribute fiction but don’t want to join the server, email us for more information: [contact@spindle-asa.com](mailto:contact@spindle-asa.com)
+If you want to contribute fiction but don’t want to join the server, email us for more information: [contact@spindle-asa.com](mailto:contact@spindle-asa.com).
 
 ### Incorporating the Algorand Blockchain
 
-You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please contact us or check out our [Beginner’s Guide to Crypto](/crypto.md)
+You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please [contact us](mailto:contact@spindle-asa.com) or check out our [Beginner’s Guide to Crypto](/crypto.md).
 
 <br>
 <br>

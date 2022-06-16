@@ -10,43 +10,48 @@ This guide covers:
 
 ## Set up a Pera Wallet
 
-Pera Wallet is the official Algorand wallet. You can visit their website to learn more or to download.
+Pera Wallet is one of the wallets featured by Algorand. You can visit their [website](https://perawallet.app/) to learn more or to download.
 
 To use the app, you will need to set a six-digit PIN number.
 
 Next, you will need to add or generate an account.
 
-![generate-account](/images/crypto/01-generate.jpg)
+![generate-account](/images/crypto/generate.jpg)
 
-To do this, you will either import or generate a 25-word seed phrase. Write down your seed phrase and keep it in a safe place (not stored digitally). Never give it to anyone!
+To do this, you will either import or generate a 25-word seed phrase. Write down your seed phrase and keep it in a safe place (not stored online). Never give it to anyone!
 
 Next, you have the option to name your account (for example, ‘what happens next?’). The default name is the 58 character Algorand address.
 
 > **_Optional:_** to ensure you have the seed phrase correct, remove your account and add it back by importing the seed phrase. Click on ‘...’ in the upper right corner, then ‘Remove Account’ in the menu that pops up, then ‘Remove’. Repeat the steps to add an account by selecting ‘I already have an account’, clicking ‘Recover an account’, and entering your seed phrase.
 
-The account must be activated by receiving at least 0.1 ALGO. Each asset and application you opt into adds to the required minimum balance, so it is recommended that you fund the account with at least 5 ALGO (currently about $3.50) to explore the Algorand ecosystem. Send ALGO to the 58 character Algorand address from any wallet you own, including an exchange like Coinbase. Click on ‘...’ in the upper right corner, then ‘Copy Address’ in the menu that pops up. Paste this address as the receiver when you send ALGO.
+The account must be activated by receiving at least 0.1 ALGO. Each asset and application you opt into adds to the required minimum balance, so it is recommended that you fund the account with a few ALGO to explore the Algorand ecosystem. Send ALGO to the 58 character Algorand address from another wallet you own or from an exchange. 
+
+ALGO can be purchased on any major *Centralized Cryptocurrency Exchange* (CEX). These include Coinbase, Binance, Crypto.com, Kraken, Kucoin, etc. 
+
+Click on ‘...’ in the upper right corner, then ‘Copy Address’ in the menu that pops up. Paste this address as the receiver when you send ALGO.
 
 Your account is now ready to receive and send ALGO!
 
 ## Opt into YARN
 
-In order to receive and send Ya, and search for YARN.  you will need to opt into it as an Algorand Standard Asset, or ASA.
+In order to receive and send Spindle Yarn, you will need to opt into it as an *Algorand Standard Asset* (ASA).
 
-Click on ‘Add New Asset’ next to the plus sign in the ‘Assets’ tab of your account, and search for YARN. You can also search by the ASA ID (544217506).
+- Click on ‘Add New Asset’ next to the plus sign in the ‘Assets’ tab of your account.
 
-![add asset](/images/crypto/02-asset.jpg)
+![add asset](/images/crypto/asset.jpg)
 
-```
-(Optional) If you would like to use Voting Cards, opt into those as well by going to the NFTs tab and using the same steps. You will have to opt into Spindle Voting Card A, B, C and D separately (ASA IDs 612495327, 612537774, 612546420, 612569810).
-```
+- You can search for *spindle* or *yarn*. To make sure you have the right asset, look for the verification checkmark or search by the ASA ID# [544217506](https://algoexplorer.io/asset/544217506).
+
+![swap](/images/crypto/search.jpg)
+
+> **_Optional:_** If you would like to use Voting Cards, you can opt into those as well by going to the NFTs tab and using the same steps as above. You will have to opt into Spindle Voting Card A, B, C and D separately (ASA ID# [612495327](https://algoexplorer.io/asset/612495327), [612537774](https://algoexplorer.io/asset/612537774), [612546420](https://algoexplorer.io/asset/612546420), [612569810](https://algoexplorer.io/asset/612569810)).
+
 
 ## Swap ALGO for YARN on Tinyman
 
 Go to https://app.tinyman.org/ and connect your Pera Wallet. In the upper right corner of the Pera Wallet app, there are the corners of a square with a horizontal line in the middle. Click this to scan the QR code that will appear on the screen when you click the ‘Connect Wallet’ button on the website. (If you are using MyAlgo wallet, you will be prompted to enter your password instead of using Wallet Connect). Before using Tinyman for the first time, you will need to opt in to the Tinyman application. Sign the transaction from your wallet (Note: this involves a 0.001 ALGO transaction fee).
 
-Once your wallet is connected, go to the ‘Swap’ tab, and click inside the search bar for the token you are swapping to. Search for Spindle Yarn. Look for the verification checkmark and check the ASA ID (544217506) - asset names and unit names can be repeated in the Algorand ecosystem, and scammers often create ASAs with similar names to verified tokens. Before making the purchase, you must opt in to the asset. If you have not yet opted in to YARN, click the blue ‘Opt in’ button below the purple box and complete the transaction in your wallet.
-
-![swap](/images/crypto/03-search.jpg)
+Once your wallet is connected, go to the ‘Swap’ tab, and click inside the search bar for the token you are swapping to. Search for Spindle Yarn. Look for the verification checkmark and check the ASA ID# [544217506](https://algoexplorer.io/asset/544217506) - asset names and unit names can be repeated in the Algorand ecosystem, and scammers often create ASAs with similar names to verified tokens. Before making the purchase, you must opt in to the asset. If you have not yet opted in to YARN, click the blue ‘Opt in’ button below the purple box and complete the transaction in your wallet.
 
 Enter the amount of ALGO you want to spend in the ‘From’ box. The amount of YARN you would receive at the current price is shown in the ‘To’ box.
 
@@ -62,7 +67,7 @@ Click the blue ‘Swap’ button at the bottom of the page, then ‘Confirm swap
 
 If the transaction was successful, you will get a confirmation screen with the transaction ID and an option to redeem your excess amount. Tip: If the excess amount is less than the 0.002 ALGO transaction fee or if you plan to make multiple purchases of the same asset (for example, if you want to DCA into YARN), you may want to wait to redeem it.
 
-![swap](/images/crypto/04-swap.jpg)
+![swap](/images/crypto/swap.jpg)
 
 ## Tip Creators or Buy Spindle Voting Cards
 
@@ -72,7 +77,7 @@ Connect your wallet as before, and then navigate to a story and click on the ‘
 
 If you want to use a Voting Card to tip a creator instead, or to vote on the outcome of a story, navigate to *Fiction > Voting Cards Swap* and click ‘Buy’ for the appropriate card.
 
-![voting](/images/crypto/05-voting-dark.jpg)
+![voting](/images/voting/cards-dark.jpg)
 
 Congratulations, you are now an active participant in the Spindle ecosystem!
 
