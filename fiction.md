@@ -8,12 +8,10 @@ This guide covers:
 - [Guide Links](#guide-links)
 
 ## Creator Rights
-
 Every work of fiction on the Spindle website was uploaded with permissions by the author/illustrator and the author/illustrator may remove their work at any time.
 
 ## Monetization
-
-Currently, monetization can occur in these ways:
+Currently, monetization through the Spindle platform can occur in these ways:
 
 - [Tipping](#tipping)
 - [Story Voting](#story-voting)
@@ -31,7 +29,6 @@ Every chapter will include a ‘Tip YARN’ button for readers to tip their favo
 ![tipping](/images/fiction/tipping-dark.jpg)
 
 ### Story Voting
-
 Story Voting is an expansion of tipping; authors may choose to offer interactivity to their stories, where readers can ‘tip’ a 500 YARN Voting Card to influence the direction of the story. Authors choose up to four options and the amount of time the vote is open (minimum of 1 week and maximum of 4 weeks from the time of upload), and readers can cast their ballot during that time-frame. Voting is at the discretion of the author and is not required. Authors of voting stories are not required to include a vote every chapter.
 
 ![voting](/images/voting/voting-dark.jpg)
@@ -49,17 +46,14 @@ Voting Stories have Ballot Indicators next to the ‘Read’ navigation, and if 
 ![ballot](/images/voting/indicator-dark.jpg)
 
 ### Illustration NFTs
-
 Currently, Illustration NFTs are only sold by the authors/artists on their respective external storefronts, but Spindle aims to implement an internal storefront for selling Illustration NFTs in Q3/Q4 2022. This will be an optional service.
 
 In the meantime, we’ll be creating author/story profile pages for everyone to link to their external shops, social media, personal pages, etc.
 
 ### Proof-Reading
-
 Story proof-reading and editing occurs on channels on our Discord server exclusively for the authors. Proof-reading chapters is often a swap between two authors, but may be compensated with YARN or a Voting Card if a swap isn’t available. For more information, join the [Spindle Discord Server](https://discord.gg/D8P9esv6Vn) to request access to the Storyteller’s channels.
 
 ### $YARN Rewards
-
 Every uploaded chapter/illustration receives a YARN reward if that chapter passes Spindle quality standards and is greater than 1500 words. Chapters under 1500 words may still be uploaded but may not be eligible for a YARN reward.
 
 This reward is just an incentive bonus and should not be considered as a payment for your work.
@@ -67,31 +61,25 @@ This reward is just an incentive bonus and should not be considered as a payment
 If your story or chapter is rejected, you’ll be given a reason and suggestions on corrections you could make to your work. Typically it just means more proof-reading is needed. Help from fellow authors can be requested on the [Spindle Discord Server](https://discord.gg/D8P9esv6Vn).
 
 ### Bounty Writing
-
 As Spindle grows, other projects notice the quality of our work and some may want to hire writers for various tasks, with various levels of compensation. The *Expanded Guide: Hidden Stories* will be coming soon. If you’re interested in Bounty Writing, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn).
 
 ### NFT-Locked Content
-
 If you’d like to lock your story content behind NFT purchases, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn). This service should be available over the next few months.
 
 ## Fiction Rules & Guidelines
 
 ### Archiving
-
 If a new chapter isn’t uploaded within six months a story may be archived. Archived works will be flagged for the benefit of the reader, but the author may still update them and move them out of the archive. Illustration NFTs, if any, will remain available. Authors may elect to have their story moved into ‘Archived Fiction’ if they have no plans to continue progressing that body of work.
 
 ### Content Restrictions
-
 Spindle is not accepting fanfiction or graphic NSFW content at this time. We encourage authors to explore all subjects and will not censor topics, but may request a trigger warning or reject anything we feel should be restricted to an 18+ audience.
 
 ### Submitting Fiction
-
 Spindle has locked Discord channels for brainstorming, proof-reading, and editing content. Joining our server is encouraged for anyone wanting to upload fiction to Spindle, but is not mandatory. You can join the [Spindle Discord Server](https://discord.gg/D8P9esv6Vn) to request access to the Storyteller’s channels.
 
 If you want to contribute fiction but don’t want to join the server, email us for more information: [contact@spindle-asa.com](mailto:contact@spindle-asa.com).
 
 ### Incorporating the Algorand Blockchain
-
 You don’t need an Algorand wallet to enjoy our public fiction content, but you will if you’d like to interact on the platform. If you want to participate but don’t know how to set up an Algorand wallet, please [contact us](mailto:contact@spindle-asa.com) or check out our [Beginner’s Guide to Crypto](/crypto.md).
 
 <br>

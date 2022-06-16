@@ -1,5 +1,7 @@
 # Expanded Guide: Warp & Weft
 
+This guide covers:
+
 - [About Warp & Weft](#about-warp--weft)
 - [Features](#features)
 - [Giveaways, Staking, and Puzzle Games](#giveaways-staking-and-puzzle-games)
@@ -7,7 +9,6 @@
 - [Guide Links](#guide-links)
 
 ## About Warp & Weft
-
 Warp & Weft is a monthly ASA zine written by Spindle community members and contributors throughout the Algorand ecosystem. The contents of this zine vary from month-to-month, but generally include a couple of broad market articles, tons of news from Algorand projects, book reviews from the Spindle clubs, short stories, and artistic features from individual creators. Warp & Weft holders are also eligible for a multitude of giveaways and the occasional staking pool! Each single edition may be purchased on the Spindle website for 3 ALGO or a roughly equivalent amount of YARN, and may also be available on our various storefronts: AB2, Rand Gallery, AlgoGems, and Crescendo Marketplace.
 
 ![warp-and-weft](/images/warp-and-weft/zines-dark.jpg)
@@ -60,7 +61,6 @@ Some Warp & Weft issues come with additional games like trivia contests, crosswo
 
 
 ## Subscriptions
-
 Subscriptions are an easy way to pick up a stack of zines for no hassle at all! Spindle currently offers a rotating, 6-month subscription and an annual subscription. These unlock all of the included zines permanently and qualifies the holder for all eligible giveaways and staking rewards! The annual cover even features collectible artwork. 
 
 ![warp-and-weft](/images/warp-and-weft/subscriptions-dark.jpg)

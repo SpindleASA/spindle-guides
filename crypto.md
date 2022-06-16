@@ -9,7 +9,6 @@ This guide covers:
 - [Guide Links](#guide-links)
 
 ## Set up a Pera Wallet
-
 Pera Wallet is one of the wallets featured by Algorand. You can visit their [website](https://perawallet.app/) to learn more or to download.
 
 To use the app, you will need to set a six-digit PIN number.
@@ -33,7 +32,6 @@ Click on ‘...’ in the upper right corner, then ‘Copy Address’ in the men
 Your account is now ready to receive and send ALGO!
 
 ## Opt into YARN
-
 In order to receive and send Spindle Yarn, you will need to opt into it as an *Algorand Standard Asset* (ASA).
 
 - Click on ‘Add New Asset’ next to the plus sign in the ‘Assets’ tab of your account.
@@ -48,7 +46,6 @@ In order to receive and send Spindle Yarn, you will need to opt into it as an *A
 
 
 ## Swap ALGO for YARN on Tinyman
-
 Go to https://app.tinyman.org/ and connect your Pera Wallet. In the upper right corner of the Pera Wallet app, there are the corners of a square with a horizontal line in the middle. Click this to scan the QR code that will appear on the screen when you click the ‘Connect Wallet’ button on the website. (If you are using MyAlgo wallet, you will be prompted to enter your password instead of using Wallet Connect). Before using Tinyman for the first time, you will need to opt in to the Tinyman application. Sign the transaction from your wallet (Note: this involves a 0.001 ALGO transaction fee).
 
 Once your wallet is connected, go to the ‘Swap’ tab, and click inside the search bar for the token you are swapping to. Search for Spindle Yarn. Look for the verification checkmark and check the ASA ID# [544217506](https://algoexplorer.io/asset/544217506) - asset names and unit names can be repeated in the Algorand ecosystem, and scammers often create ASAs with similar names to verified tokens. Before making the purchase, you must opt in to the asset. If you have not yet opted in to YARN, click the blue ‘Opt in’ button below the purple box and complete the transaction in your wallet.
@@ -70,7 +67,6 @@ If the transaction was successful, you will get a confirmation screen with the t
 ![swap](/images/crypto/swap.jpg)
 
 ## Tip Creators or Buy Spindle Voting Cards
-
 Now your YARN is ready to be used on the Spindle website!
 
 Connect your wallet as before, and then navigate to a story and click on the ‘Tip YARN’ button at the bottom, directly under the wallet address of the creator.

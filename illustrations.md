@@ -1,5 +1,7 @@
 # Expanded Guide: Illustrations
 
+This guide covers:
+
 - [Guide Links](#guide-links)
 
 <br>

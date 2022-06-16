@@ -1,5 +1,7 @@
 # Expanded Guide: Spindle ASA
 
+This guide covers:
+
 - [What is Spindle ASA?](#what-is-spindle-asa)
 - [Why use the blockchain?](#why-use-the-blockchain)
 - [Why Algorand?](#why-algorand)

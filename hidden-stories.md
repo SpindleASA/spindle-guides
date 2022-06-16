@@ -1,5 +1,7 @@
 # Expanded Guide: Hidden Stories
 
+This guide covers:
+
 - [Guide Links](#guide-links)
 
 <br>
