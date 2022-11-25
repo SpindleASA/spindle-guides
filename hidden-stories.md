@@ -13,5 +13,6 @@ This guide covers:
 - [Beginner’s Guide to Crypto](/crypto.md)
 - [Expanded Guide: Fiction](/fiction.md)
 - [Expanded Guide: Voting](/voting.md)
+- [Expanded Guide: Storefronts](/storefronts.md)
 - [Expanded Guide: Warp & Weft](/warp-and-weft.md)
 - [Expanded Guide: Spindle ASA](/spindle.md)

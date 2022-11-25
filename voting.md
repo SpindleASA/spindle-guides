@@ -10,7 +10,7 @@ This guide covers:
 
 
 ## About Voting Cards
-Spindle Voting Cards are a set of multi-mint NFTs with a specified value and voting option. These can be used to cast ballots in interactive stories, compensate proof-readers, or even just as a little tip to authors. 
+Spindle Voting Cards are a set of multi-mint NFTs with a specified value and voting option. These can be used to cast ballots in interactive stories, compensate proofreaders, or even just as a little tip to authors. 
 
 These cards can be purchased for 500 YARN or a roughly equivalent value in ALGO, and are available on the Spindle website as well as various Spindle external storefronts such as AB2, AlgoGems, and Crescendo Marketplace. Cards may be swapped back into 500 YARN at any time on the Spindle website. They may not be swapped back into ALGO, GEMS, or CRSD.
 
@@ -86,5 +86,6 @@ The Voting Card illustrations were chosen to reflect a variety of story genres a
 - [Beginner’s Guide to Crypto](/crypto.md)
 - [Expanded Guide: Fiction](/fiction.md)
 - [Expanded Guide: Voting](/voting.md)
+- [Expanded Guide: Storefronts](/storefronts.md)
 - [Expanded Guide: Warp & Weft](/warp-and-weft.md)
 - [Expanded Guide: Spindle ASA](/spindle.md)

@@ -13,7 +13,7 @@ This guide covers:
 
 
 ## What is Spindle ASA?
-ASA stands for Algorand Standard Asset, and represents the part of Spindle built on the Algorand Blockchain. This includes our YARN token and all of our NFTs.
+ASA stands for Algorand Standard Asset and represents the part of Spindle built on the Algorand Blockchain. This includes our YARN token and all of our NFTs.
 
 
 ## Why use the blockchain?
@@ -32,7 +32,7 @@ At Spindle, we believe blockchain technology is the future path for many industr
 ## Why Algorand?
 *Algorand just works.*
 
-Algorand is professional, reliable, and cheap to use on a large scale. Algorand is also incredibly eco-conscious, and the community within Algorand puts a large emphasis on carbon offsets and green practices. There are many blockchains to build on, but we believe Algorand has the best all around technology, affordability, and ethics.  
+Algorand is professional, reliable, and cheap to use on a large scale. Algorand is also incredibly eco-conscious, and the community within Algorand puts a large emphasis on carbon offsets and green practices. There are many blockchains to build on, but we believe Algorand has the best all-around technology, affordability, and ethics.  
 
 
 ## What is Spindle Yarn?
@@ -40,7 +40,7 @@ YARN, $YARN, or Spindle Yarn is *Algorand Standard Asset* ID# [544217506](https:
 
 
 ## Why use NFTs?
-We want you to own the assets you purchase, even the digital ones. eBooks, illustrations, even zines, should be yours to hold, gift, or sell, at your discretion.
+We want you to own the assets you purchase, even the digital ones. eBooks, illustrations, and even zines should be yours to hold, gift, or sell, at your discretion.
 
 Even more importantly, we want to have the option of including rewards, royalties, and other benefits to purchasers and holders of these assets, and NFTs allow us to do that in a unique and seamless way. 
 
@@ -56,14 +56,14 @@ Once purchased, the ALGO must be transferred to an Algorand ecosystem wallet, su
 
 Once your ALGO is in your ecosystem wallet, you can swap that ALGO for ecosystem sub-tokens, such as YARN, using a Decentralized Cryptocurrency Exchange (DEX). The main DEX for Algorand is Tinyman.org. 
 
-Most or all Spindle NFTs are available for purchase in both YARN and ALGO, so you may not even need to swap! Just connect your wallet on the Spindle Website to make transactions.
+Most Spindle NFTs are available for purchase in both YARN and ALGO, so you may not even need to swap! Just connect your wallet to the Spindle Website to make transactions.
 
 For a more in-depth guide with pictures, check out our [Beginner’s Guide to Crypto](/crypto.md).
 
 
 ## Spindle ASA Whitepaper and Roadmap
 
-Our Whitepaper contains more information about our project, particularly the blockchain aspects of it. The whitepaper goes more in-depth about our mission statement, our tokenomics (such as supply and distribution), future goals, staffing, etc. A PDF of our whitepaper is available [here](https://www.spindle-asa.com/whitepaper-roadmap).
+Our Whitepaper contains more information about our project, particularly the blockchain aspects of it. The whitepaper goes more in-depth about our mission statement, tokenomics (such as supply and distribution), future goals, staffing, etc. A PDF of our whitepaper is available [here](https://www.spindle-asa.com/whitepaper-roadmap).
 
 
 <br>
@@ -75,5 +75,6 @@ Our Whitepaper contains more information about our project, particularly the blo
 - [Beginner’s Guide to Crypto](/crypto.md)
 - [Expanded Guide: Fiction](/fiction.md)
 - [Expanded Guide: Voting](/voting.md)
+- [Expanded Guide: Storefronts](/storefronts.md)
 - [Expanded Guide: Warp & Weft](/warp-and-weft.md)
 - [Expanded Guide: Spindle ASA](/spindle.md)

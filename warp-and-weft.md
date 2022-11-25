@@ -9,7 +9,7 @@ This guide covers:
 - [Guide Links](#guide-links)
 
 ## About Warp & Weft
-Warp & Weft is a monthly ASA zine written by Spindle community members and contributors throughout the Algorand ecosystem. The contents of this zine vary from month-to-month, but generally include a couple of broad market articles, tons of news from Algorand projects, book reviews from the Spindle clubs, short stories, and artistic features from individual creators. Warp & Weft holders are also eligible for a multitude of giveaways and the occasional staking pool! Each single edition may be purchased on the Spindle website for 3 ALGO or a roughly equivalent amount of YARN, and may also be available on our various storefronts: AB2, Rand Gallery, AlgoGems, and Crescendo Marketplace.
+Warp & Weft is a monthly ASA zine written by Spindle community members and contributors throughout the Algorand ecosystem. The contents of this zine vary from month-to-month but generally include a couple of broad market articles, tons of news from Algorand projects, book reviews from the Spindle clubs, short stories, and artistic features from individual creators. Warp & Weft holders are also eligible for a multitude of giveaways and the occasional staking pool! Each single edition may be purchased on the Spindle website for 3 ALGO or a roughly equivalent amount of YARN, and may also be available on our various storefronts: AB2, Rand Gallery, AlgoGems, and Crescendo Marketplace.
 
 ![warp-and-weft](/images/warp-and-weft/zines-dark.jpg)
 
@@ -23,10 +23,10 @@ The Project Spotlight is the main feature of each zine, chosen by Spindle. A W&W
 May’s Spotlight Article features The AlgoFaucet in a 3-page interview with founder Big Bang Flash.
 
 ### Project Sponsorships
-Project Sponsorships are purchased articles, and will be clearly labeled as paid features. These help fund Warp & Weft journalists and allow us to continue expanding! Each month will only feature one main sponsor, which will receive a 2 page article, an icon on the front cover, a stack of zines to give out to their community, and the option to distribute their token through W&W staking to reach a new audience. Sponsorships are currently 100 ALGO, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn) if your project is interested in sponsoring an issue!
+Project Sponsorships are purchased articles, and will be clearly labeled as paid features. These help fund Warp & Weft journalists and allow us to continue expanding! Each month will only feature one main sponsor, which will receive a 2-page article, an icon on the front cover, a stack of zines to give out to their community, and the option to distribute their token through W&W staking to reach a new audience. Sponsorships are currently 100 ALGO, please contact us via [email](mailto:contact@spindle-asa.com) or join our [Discord](https://discord.gg/D8P9esv6Vn) if your project is interested in sponsoring an issue!
 
 ### Block Advertisements
-Block Advertisements are smaller, paid ads towards the back of Warp & Weft. Block advertisements may be full page, half page, a third page, or a quarter page, depending on how many advertisements are submitted. They will not be smaller than a quarter page. Block advertisements may be designed by Spindle if a pre-made design isn’t available, and will include clickable links to the project’s Discord server, website, and social media pages. Block advertisements are currently 20 ALGO.
+Block Advertisements are smaller, paid ads towards the back of Warp & Weft. Block advertisements may be a full page, half page, a third page, or a quarter page, depending on how many advertisements are submitted. They will not be smaller than a quarter page. Block advertisements may be designed by Spindle if a pre-made design isn’t available, and will include clickable links to the project’s Discord server, website, and social media pages. Block advertisements are currently 20 ALGO.
 
 ![warp-and-weft](/images/warp-and-weft/block-ads.png)
 
@@ -61,7 +61,7 @@ Some Warp & Weft issues come with additional games like trivia contests, crosswo
 
 
 ## Subscriptions
-Subscriptions are an easy way to pick up a stack of zines for no hassle at all! Spindle currently offers a rotating, 6-month subscription and an annual subscription. These unlock all of the included zines permanently and qualifies the holder for all eligible giveaways and staking rewards! The annual cover even features collectible artwork. 
+Subscriptions are an easy way to pick up a stack of zines for no hassle at all! Spindle currently offers a rotating, 6-month subscription and an annual subscription. These unlock all of the included zines permanently and qualify the holder for all eligible giveaways and staking rewards! The annual cover even features collectible artwork. 
 
 ![warp-and-weft](/images/warp-and-weft/subscriptions-dark.jpg)
 
@@ -74,5 +74,6 @@ Subscriptions are an easy way to pick up a stack of zines for no hassle at all! 
 - [Beginner’s Guide to Crypto](/crypto.md)
 - [Expanded Guide: Fiction](/fiction.md)
 - [Expanded Guide: Voting](/voting.md)
+- [Expanded Guide: Storefronts](/storefronts.md)
 - [Expanded Guide: Warp & Weft](/warp-and-weft.md)
 - [Expanded Guide: Spindle ASA](/spindle.md)
