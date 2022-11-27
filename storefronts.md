@@ -3,6 +3,7 @@
 This guide covers:
 
 - [About Storefronts](#about-storefronts)
+- [How to Buy](#how-to-buy)
 - [How to Add Listings](#how-to-add-listings)
 - [How to Edit and Close Listings](#how-to-edit-and-close-listings)
 - [How to Claim Royalties](#how-to-claim-royalties)
