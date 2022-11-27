@@ -43,7 +43,9 @@ After you connected your wallet, click on the ‘+’-Symbol and you will be for
 
 **ASA / NFT.** Select an asset that is related to your story published on Spindle. The asset can be unique or multi-mint. Currently, we do not offer to mint new ASAs / NFTs through our website. To mint assets, you can use services, such as [Rand Gallery](https://www.randgallery.com/algo-collection/), [AB2 Gallery](https://ab2.gallery/manage) or [Algogems](https://www.algogems.io/create).
 
-![Mint NFTs](/videos/Spindle_Mint_NFT.mp4)
+<video width="100%" controls>
+  <source src="/videos/Spindle_Mint_NFT.mp4" type="video/mp4">
+</video>
 
 **Quantity.** Enter how many units of the selected asset you want to list for sale. You can change the amount later by adding or withdrawing units of your asset. 
 
