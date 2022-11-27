@@ -16,6 +16,18 @@ Only wallets whitelisted for stories published on Spindle can add NFT listings. 
 
 The royalty functionality of the underlying smart contract allows to add multiple collaborators to a listing who can claim royalties from the sales. This way, co-authors, illustrators, etc. do not have to struggle to handle the payouts from sales.
 
+## How to Buy
+
+Support your favorite Spindle writers and illustrators and buy NFTs related to their stories. You can use the search and filter functionality to find the creators or NFTs you are looking for.
+
+![filter](/images/storefronts/filter-dark.jpg)
+
+If you haven't already, connect your wallet and then click on the ‘Buy’ button underneath the NFT you want to buy.
+
+![filter](/images/storefronts/buy-dark.jpg)
+
+Creators can choose whether they want to offer their NFTs for ALGO, YARN, or both. Select the currency you want to pay with and enter how many units of the NFT you want to buy. Finally, sign the prompted transactions to receive the NFT(s).
+
 ## How to Add Listings
 
 To add a listing, you must connect a wallet to the Spindle ASA website. The connected wallet must be whitelisted for a story to be able to add a listing to the story's storefront. If you use the wallet that also receives tips or voting cards for a story, it is already whitelisted. If you want to whitelist additional wallets for your story, contact us on the [Spindle Discord](https://discord.gg/D8P9esv6Vn) or via [email](mailto:contact@spindle-asa.com).
@@ -28,7 +40,9 @@ After you connected your wallet, click on the ‘+’-Symbol and you will be for
 
 **Related Story.** Only ASAs / NFTs which are related to a story are allowed to be listed. Unrelated listings can be [reported](mailto:contact@spindle-asa.com) and will no longer be shown on the website. All listings will be grouped by their related story on the [Spindle Storefronts](https://www.spindle-asa.com/store) page.
 
-**ASA / NFT.** Select an asset that is related to your story published on Spindle. The asset can be unique or multi-mint. Currently, we do not offer to mint new ASAs / NFTs through our website. To mint assets, you can follow the guide [Minting NFTs on Algorand using IPFS](https://developer.algorand.org/solutions/minting-nfts-on-algorand-using-ipfs/).
+**ASA / NFT.** Select an asset that is related to your story published on Spindle. The asset can be unique or multi-mint. Currently, we do not offer to mint new ASAs / NFTs through our website. To mint assets, you can use services, such as [Rand Gallery](https://www.randgallery.com/algo-collection/), [AB2 Gallery](https://ab2.gallery/manage) or [Algogems](https://www.algogems.io/create).
+
+[Mint NFTs](/videos/Spindle_Mint_NFT.mp4)
 
 **Quantity.** Enter how many units of the selected asset you want to list for sale. You can change the amount later by adding or withdrawing units of your asset. 
 
