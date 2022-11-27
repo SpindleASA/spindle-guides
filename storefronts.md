@@ -19,6 +19,10 @@ The royalty functionality of the underlying smart contract allows to add multipl
 
 ## How to Buy
 
+<video width="100%" controls>
+  <source src="/videos/Spindle_Storefronts_Buyers.mp4" type="video/mp4">
+</video>
+
 Support your favorite Spindle writers and illustrators and buy NFTs related to their stories. You can use the search and filter functionality to find the creators or NFTs you are looking for.
 
 ![filter](/images/storefronts/filter-dark.jpg)
@@ -30,6 +34,10 @@ If you haven't already, connect your wallet and then click on the ‘Buy’ butt
 Creators can choose whether they want to offer their NFTs for ALGO, YARN, or both. Select the currency you want to pay with and enter how many units of the NFT you want to buy. Finally, sign the prompted transactions to receive the NFT(s).
 
 ## How to Add Listings
+
+<video width="100%" controls>
+  <source src="/videos/Spindle_Storefronts_Creators.mp4" type="video/mp4">
+</video>
 
 To add a listing, you must connect a wallet to the Spindle ASA website. The connected wallet must be whitelisted for a story to be able to add a listing to the story's storefront. If you use the wallet that also receives tips or voting cards for a story, it is already whitelisted. If you want to whitelist additional wallets for your story, contact us on the [Spindle Discord](https://discord.gg/D8P9esv6Vn) or via [email](mailto:contact@spindle-asa.com).
 
