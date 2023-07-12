@@ -6,9 +6,9 @@ This guide covers:
 - [Voting](#voting)
 - [Storefronts](#storefronts)
 - [Illustrations](#illustrations)
-- [Hidden Stories & Bounty Writing](#hidden-stories--bounty-writing)
-- [Warp & Weft](#warp--weft)
-- [Spindle ASA & $YARN Token](#spindle-asa--yarn-token)
+- [Hidden Stories & Bounty Writing](#hidden-stories-bounty-writing)
+- [Warp & Weft](#warp-weft)
+- [Spindle ASA & $YARN Token](#spindle-asa-yarn-token)
 - [Social Clubs](#social-clubs)
 - [Coming Soon!](#coming-soon)
 - [Spindle Links](#spindle-links)
@@ -17,7 +17,7 @@ This guide covers:
 ## Stories
 Every work of fiction on the Spindle website was uploaded with permission by the author/illustrator and the author/illustrator may remove their work at any time.
 
-Every uploaded chapter/illustration receives a [YARN](#spindle-asa--yarn-token) reward if that chapter passes Spindle quality standards and is greater than 1500 words. Chapters under 1500 may still be uploaded but may not be eligible for a YARN reward.
+Every uploaded chapter/illustration receives a [YARN](#spindle-asa-yarn-token) reward if that chapter passes Spindle quality standards and is greater than 1500 words. Chapters under 1500 may still be uploaded but may not be eligible for a YARN reward.
 
 If a new chapter isn’t uploaded within six months a story may be archived. Archived works will be flagged for the benefit of the reader, but the author may still update them and move them out of the archive.
 
@@ -98,7 +98,7 @@ Spindle is looking to simultaneously expand the content we currently offer (fict
 ### $YARN
 - [AlgoExplorer](https://algoexplorer.io/asset/544217506)
 - [Tinyman Swap](https://app.tinyman.org/#/swap?asset_in=0&asset_out=544217506)
-- [Liquidity Pool](https://app.tinyman.org/#/pool/HN3SAOCBR36XYO2E3N2FFUHWJ3YQDHWMBKK5IHWPE2VZVGDXKKYAAJRLVY)
+- [Liquidity Pool](https://app.tinyman.org/#/pool/EPKHI4QQZPUOWDMNMTYE4S3E4TW35GTKVBX4GAHGCPVSBGPPN5UKRHGYNE)
 
 <br>
 <br>
