@@ -52,7 +52,7 @@ YARN must be purchased using Algorand’s native token ALGO.
 
 ALGO can be purchased on any major *Centralized Cryptocurrency Exchange* (CEX). These include Coinbase, Binance, Crypto.com, Kraken, Kucoin, etc. 
 
-Once purchased, the ALGO must be transferred to an Algorand ecosystem wallet, such as Pera Wallet (mobile) or MyAlgo Wallet (desktop). This transfer is easy, fast, and has almost no fee.
+Once purchased, the ALGO must be transferred to an Algorand ecosystem wallet, such as Pera Wallet (mobile and web) or Defly Wallet (mobile). This transfer is easy, fast, and has almost no fee.
 
 Once your ALGO is in your ecosystem wallet, you can swap that ALGO for ecosystem sub-tokens, such as YARN, using a Decentralized Cryptocurrency Exchange (DEX). The main DEX for Algorand is Tinyman.org. 
 
