@@ -52,7 +52,7 @@ Once your wallet is connected, go to the ‘Swap’ tab, and click inside the se
 
 Enter the amount of ALGO you want to spend in the ‘From’ box. The amount of YARN you would receive at the current price is shown in the ‘To’ box.
 
-*Minimum received*: the amount of YARN you are guaranteed to receive if the swap is successful (note that this is lower than the amount quoted in the ‘To’ box). If the price does not change while you are completing the swap, you will redeem the difference between the amount shown in the ‘To’ box and the ‘Minimum received’ as an excess amount later.
+*Minimum received*: the amount of YARN you are guaranteed to receive if the swap is successful (note that this is lower than the amount quoted in the ‘To’ box).
 
 *Slippage tolerance*: the maximum % difference in *quoted price* and *actual price* you will tolerate (in the unfavorable direction). It can be set to any value between 0-100%. As slippage tolerance increases, the minimum received decreases. 0.5% is the default slippage on Tinyman. If the price change during the seconds it takes to complete the swap is larger than the slippage tolerance, the transaction will fail.
 
@@ -60,9 +60,9 @@ Enter the amount of ALGO you want to spend in the ‘From’ box. The amount of 
 
 *Price impact*: the % increase your swap will have on the price of YARN. As the amount you are swapping increases or the size of the liquidity pool decreases, the price impact increases. If the price impact is greater than 5%, Tinyman will give a warning. For beginners, it is recommended to swap only if the price impact is less than 5%.
 
-Click the blue ‘Swap’ button at the bottom of the page, then ‘Confirm swap’ on the next page. Sign the transaction in your wallet.
+Click the blue ‘Swap’ button at the bottom of the page, then ‘Confirm’ on the next page. Sign the transaction in your wallet.
 
-If the transaction was successful, you will get a confirmation screen with the transaction ID and an option to redeem your excess amount. Tip: If the excess amount is less than the 0.002 ALGO transaction fee or if you plan to make multiple purchases of the same asset (for example, if you want to DCA into YARN), you may want to wait to redeem it.
+If the transaction was successful, you will get a confirmation screen with the transaction ID and the received amount.
 
 ![swap](/images/crypto/swap.jpg)
 
